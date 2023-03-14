@@ -4,12 +4,19 @@
 
 A Payment Service for the Consumer's Reasonable, Effective, Valuable Consumption
 
-Cherries prepared in one place for you who want to become a cherry picker of benefits
+A Payment Service for the Consumer's **Reasonable**, **Effective**, **Valuable** Consumption
+
+***Cherries prepared in one place for you who want to become a cherry picker of benefits***
 
 <img src="https://images.unsplash.com/photo-1562218636-798e433e94a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=826&q=80" width="187" height="280"/>
 
 ## Solana Grizzlython
 
+Grizzlython is a global, online hackathon for the Solana ecosystem and community.
+
+<img src="https://solana.com/_next/image?url=https%3A%2F%2Fsolana.ghost.io%2Fcontent%2Fimages%2F2023%2F02%2Fgrizzlython_Blog_Header_final.jpg&w=3840&q=75" width="500" height="310"/>
+
+For more information -> https://solana.com/grizzlython
 ## Development
 
 ### How to Start

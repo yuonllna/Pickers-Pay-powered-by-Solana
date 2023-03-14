@@ -29,3 +29,45 @@ a {
   background-color: #707070;
 }
 
+/* modal */
+
+.modal-overlay {
+  z-index: 9999;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-box {
+  display: block;
+  background: white;
+  width: 70%;
+  height: 33%;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.modal-overlay-pay {
+  z-index: 9999;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-box-pay {
+  display: block;
+  background: #D0D0D0;
+  width: 70%;
+  height: 20%;
+  border-radius: 0.4rem;
+}

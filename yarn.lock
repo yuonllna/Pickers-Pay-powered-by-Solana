@@ -1458,7 +1458,7 @@
   dependencies:
     "@babel/runtime" "^7.21.0"
 
-"@mui/material@^5.0.0":
+"@mui/material@^5.11.11":
   version "5.11.12"
   resolved "https://registry.npmjs.org/@mui/material/-/material-5.11.12.tgz"
   integrity sha512-M6BiIeJjySeEzWeiFJQ9pIjJy6mx5mHPWeMT99wjQdAmA2GxCQhE9A0fh6jQP4jMmYzxhOIhjsGcp0vSdpseXg==

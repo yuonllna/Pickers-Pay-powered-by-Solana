@@ -2,8 +2,6 @@
 
 ### Pick it and Pay it. Whole lots of Cherries.
 
-A Payment Service for the Consumer's Reasonable, Effective, Valuable Consumption
-
 A Payment Service for the Consumer's **Reasonable**, **Effective**, **Valuable** Consumption
 
 ***Cherries prepared in one place for you who want to become a cherry picker of benefits***

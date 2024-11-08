@@ -12,8 +12,6 @@ A Payment Service for the Consumer's **Reasonable**, **Effective**, **Valuable**
 
 Grizzlython is a global, online hackathon for the Solana ecosystem and community.
 
-<img src="https://solana.com/_next/image?url=https%3A%2F%2Fsolana.ghost.io%2Fcontent%2Fimages%2F2023%2F02%2Fgrizzlython_Blog_Header_final.jpg&w=3840&q=75" width="500" height="310"/>
-
 For more information -> https://solana.com/grizzlython
 ## Development
 

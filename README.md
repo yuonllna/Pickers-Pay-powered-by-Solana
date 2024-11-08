@@ -49,14 +49,6 @@ For more information -> https://solana.com/grizzlython
 
 (10) '/stampinfo': The stamp card is stamped one by one each time it is used. It can be used like a coupon when the specified number of stamps are filled.
 
-
-### Wallet Adapter
-
-아자아자 화이팅
-
-
-# 수정 전 내용 일단 삭제 안하고 남겨둠
-
 # :rocket: Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
